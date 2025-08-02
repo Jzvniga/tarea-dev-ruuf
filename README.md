@@ -16,7 +16,7 @@ Ejemplos proporcionados por Ruuf:
 
 ---
 
-## 🛠️ Solución
+## Solución
 
 La solución implementa una función llamada `calculate_panels` que prueba diferentes formas de colocar los paneles:
 
